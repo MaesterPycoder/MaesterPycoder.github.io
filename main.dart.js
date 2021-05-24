@@ -63750,7 +63750,7 @@ pS:function(a){var s=this,r=null,q=A.iH(r,r,r,r,r,r,r,r,r,new V.cN(C.ab,t.LE),r,
 return U.qa(!1,M.aB(r,T.dE(H.b([U.hP("assets/images/o.png",r,s.HX(0,s.c.a0(p).f)+5,r),L.ba("The Optimus Blog",r,r,r,r,B.Us(C.l,s.HX(0,s.c.a0(p).f),C.X),r,r)],t.t),C.S,C.aN,C.t),C.j,r,r,r,r,r,r,r,r,r,r),C.j,r,r,r,new A.a9e(),q)},
 gpn:function(){var s=this.d.gj_()
 return s===C.W||s===C.ah},
-Am:function(){var s=this.gpn()?"Open Menu":"Close",r=this.d
+Am:function(){var s=this.gpn()?"Menu":"Close",r=this.d
 r.toString
 return B.ahs(C.l,L.agi(C.jn,r),new A.a9c(this),s)},
 cR:function(a,b){var s=null
@@ -63768,7 +63768,7 @@ $C:"$0",
 $R:0,
 $S:1}
 A.a98.prototype={
-$0:function(){this.a.e=250},
+$0:function(){this.a.e=260},
 $S:1}
 A.a99.prototype={
 $0:function(){this.a.e=0},
@@ -63971,7 +63971,7 @@ pS:function(a){var s=this,r=null,q=A.iH(r,r,r,r,r,r,r,r,r,new V.cN(C.ab,t.LE),r,
 return U.qa(!1,M.aB(r,T.dE(H.b([U.hP("assets/images/o.png",r,s.HY(0,s.c.a0(p).f)+5,r),L.ba("The Optimus Blog",r,r,r,r,B.Us(C.l,s.HY(0,s.c.a0(p).f),C.X),r,r)],t.t),C.S,C.aN,C.t),C.j,r,r,r,r,r,r,r,r,r,r),C.j,r,r,r,new A.a9f(),q)},
 gpn:function(){var s=this.d.gj_()
 return s===C.W||s===C.ah},
-Am:function(){var s=this.gpn()?"Open Menu":"Close",r=this.d
+Am:function(){var s=this.gpn()?"Menu":"Close",r=this.d
 r.toString
 return B.ahs(C.l,L.agi(C.jn,r),new A.a9d(this),s)},
 cR:function(a,b){var s=null
@@ -63989,7 +63989,7 @@ $C:"$0",
 $R:0,
 $S:1}
 A.a9a.prototype={
-$0:function(){this.a.e=250},
+$0:function(){this.a.e=260},
 $S:1}
 A.a9b.prototype={
 $0:function(){this.a.e=0},
@@ -67175,7 +67175,7 @@ C.Ma=new P.ay(8e5)
 C.rk=new P.ay(-38e3)
 C.b_=new V.ae(0,0,0,0)
 C.rl=new V.ae(0,12,0,12)
-C.jS=new V.ae(0,6,0,6)
+C.jS=new V.ae(0,3,0,3)
 C.rm=new V.ae(0,8,0,8)
 C.fJ=new V.ae(12,12,12,12)
 C.rn=new V.ae(12,20,12,12)
